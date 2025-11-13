@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there. My name is Dachi 👋
+
+I like solving DSA problems in C++, building backend apps with Spring / Django, and doing hacking CTFs.
 
 <!--
 **Iamdachi/Iamdachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
